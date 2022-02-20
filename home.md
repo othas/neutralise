@@ -1,4 +1,6 @@
-![background]: bg_bggenerator_com.jpg
+![background]
+
+[background]: bg_bggenerator_com.jpg "background"
 
 # Neutral comparison of statistical hypothesis tests for the two-sample problem
 
